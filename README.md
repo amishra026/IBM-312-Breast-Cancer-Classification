@@ -1,4 +1,4 @@
-# IBM-312-Breast-Cancer-Classification
+# IBM 312 Breast Cancer Classification
 
 This was a group assignment for our course IBM 312 Data Mining for Business Intelligence.
 
